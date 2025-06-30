@@ -43,3 +43,4 @@ elif feature == "Crop Health Tips":
         st.markdown("### Health Tips")
         for tip in tips:
             st.markdown(f"- {tip}")
+            from utils.fetch_data import get_species_info, get_commons_image
