@@ -1,4 +1,7 @@
 streamlit
-requests
 tensorflow
 Pillow
+numpy
+pandas
+opencv-python-headless
+
